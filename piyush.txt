@@ -1,0 +1,15 @@
+
+Go Through the Python Video (https://www.youtube.com/watch?v=t8pPdKYpowI)
+Capture Your Doubts and Ask in Monday and Tuesday Doubt Session 
+Complete the Assigned Task.
+Task to create python file
+1.Print Hello World
+2.Find Odd and Even
+3.print Table of any number
+4.Print Factorial of any number
+5.Print Fibonacci Series
+6.Use Sys module, capture system details in a file
+7.Append All the Service of the server in a csv file
+8.Process Json file
+9.Create new file and append some data using for loop 5 times.
+10.Send a mail using Python
