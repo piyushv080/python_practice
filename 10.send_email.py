@@ -12,11 +12,11 @@ server = smtplib.SMTP('smtp.google.com','587')
 #     #encrpyting 
 #     smtp.starttls()
 #     smtp.ehlo()
-#     smtp.login("1716510074@kit.ac.in","pv@8174812109")
+#     smtp.login("user_email_id","password")
 #     smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
 server.starttls()
 
-server.login('1716510074@kit.ac.in','pv@1716510074')
+server.login('email','pass')
 
-server.sendmail('1716510074@kit.ac.in','piyushv080@gmail.com','Mail using py')
+server.sendmail('email1','email2','Mail using py')
 print('piyush Mail sent')
